@@ -1,4 +1,5 @@
 # Hi, I'm Prachi Singh
+## Computer Science Engineer | Ex-Frontend Developer | Lifelong Learner
 ## About Me
 
 **B.Tech in Computer Science and Engineering**
@@ -29,7 +30,8 @@ I am passionate about Computer Science and enjoy solving problems through progra
 ## Currently Working On
 - Strengthening DSA
 - Building programming projects
-- Expanding Computer Science Fundamentals
+- Expanding Core Computer Science knowledge
+- Learning modern software development practices
 
 > *"Learning something new everyday, one project at a time."*
 
