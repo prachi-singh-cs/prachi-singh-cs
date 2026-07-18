@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Prachi Singh
+## About Me
 
-<!--
-**prachi-singh-cs/prachi-singh-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech in Computer Science and Engineering**
 
-Here are some ideas to get you started:
+**M.Tech in Computer Science Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Computer Science and enjoy solving problems through programming while continuously exploring emerging technologies.
+
+## Areas of interest:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Cybersecurity 
+- Software Engineering
+
+## Core Computer Science 
+- Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Object-Oriented Programming
+
+## Languages
+- C++
+- Java
+- Python
+
+## Currently Working On
+- Strengthening DSA
+- Building programming projects
+- Expanding Computer Science Fundamentals
+
+> *"Learning something new everyday, one project at a time."*
+
+
