@@ -4,7 +4,7 @@
 
 **B.Tech in Computer Science and Engineering**
 
-**M.Tech in Computer Science Engineering**
+**M.Tech in Computer Science**
 
 I am passionate about Computer Science and enjoy solving problems through programming while continuously exploring emerging technologies.
 
@@ -28,7 +28,7 @@ I am passionate about Computer Science and enjoy solving problems through progra
 - Python
 
 ## Currently Working On
-- Strengthening DSA
+- Learning Data Structures and Algorithms using NPTEL (IIT KANPUR) course and implementing concepts in C++.
 - Building programming projects
 - Expanding Core Computer Science knowledge
 - Learning modern software development practices
