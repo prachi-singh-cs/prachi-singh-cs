@@ -26,6 +26,7 @@ I am passionate about Computer Science and enjoy solving problems through progra
 - C++
 - Java
 - Python
+- SQL
 
 ## Currently Working On
 - Learning Data Structures and Algorithms using NPTEL (IIT KANPUR) course and implementing concepts in C++.
