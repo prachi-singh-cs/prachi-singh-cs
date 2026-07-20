@@ -30,6 +30,8 @@ I am passionate about Computer Science and enjoy solving problems through progra
 
 ## Currently Working On
 - Learning Data Structures and Algorithms using NPTEL (IIT KANPUR) course and implementing concepts in C++.
+- Operating Systems
+- Database Management System (DBMS)
 - Building programming projects
 - Expanding Core Computer Science knowledge
 - Learning modern software development practices
