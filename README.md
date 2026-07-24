@@ -1,5 +1,5 @@
 # Hi, I'm Prachi Singh
-## Computer Science Engineer | Ex-Frontend Developer | Lifelong Learner
+## Computer Science Engineer | Frontend Developer | Lifelong Learner
 ## About Me
 
 **B.Tech in Computer Science and Engineering**
