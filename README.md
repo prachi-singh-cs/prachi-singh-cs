@@ -2,9 +2,9 @@
 ## Computer Science Engineer | Frontend Developer | Lifelong Learner
 ## About Me
 
-**B.Tech in Computer Science and Engineering**
+***B.Tech in Computer Science and Engineering***
 
-**M.Tech in Computer Science**
+***M.Tech in Computer Science***
 
 I am passionate about Computer Science and enjoy solving problems through programming while continuously exploring emerging technologies.
 
